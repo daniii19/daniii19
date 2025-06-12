@@ -1,10 +1,10 @@
-# 👋 ¡Hola! Soy [Tu Nombre]
+# 👋 ¡Hola! Soy Dani
 
-¡Bienvenido(a) a mi perfil de GitHub! Soy un(a) apasionado(a) por la tecnología, el desarrollo de software y la mejora continua.
+¡Bienvenido a mi perfil de GitHub! Soy un apasionado por la tecnología, el desarrollo de software y la mejora continua.
 
 ## 🚀 Sobre mí
 
-- 🎓 [Tu formación o carrera] — [Nombre de la universidad o centro de estudios]
+- 🎓 Técnico Superior en Desarrollo de Aplicaciones Web — Centro Integrado de F.P. de los Sectores Industrial y de Servicios (La Laboral)
 - 💼 Actualmente trabajo en: [Nombre de la empresa] como [tu rol]
 - 🛠️ Me gusta trabajar con:
   - Lenguajes: [Ej. JavaScript, Python, C#...]
@@ -24,7 +24,7 @@
 
 ## 📫 Cómo contactarme
 
-- Email: [tu correo]
+- Email: danielgayolro@gmail.com
 - LinkedIn: [tu enlace de LinkedIn]
 - Twitter: [tu usuario si aplica]
 - Portafolio: [tu web o portafolio si tienes]
