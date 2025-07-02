@@ -9,7 +9,7 @@
 - 🛠️ Me gusta trabajar con:
   <p
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=java,html,css,js,bootstrap,react,spring,nodejs" />
+      <img src="https://skillicons.dev/icons?i=java,html,css,js,bootstrap,react,spring,nodejs,mysql,git,postman" />
     </a>
   </p>
 
