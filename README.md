@@ -4,12 +4,10 @@
 
 ## 🚀 Sobre mí
 
-- 🎓 Técnico Superior en Desarrollo de Aplicaciones Web — Centro Integrado de F.P. de los Sectores Industrial y de Servicios (La Laboral)
-- 💼 Actualmente trabajo en: [Nombre de la empresa] como [tu rol]
+- 🎓 Técnico Superior en Desarrollo de Aplicaciones Web
 - 🛠️ Me gusta trabajar con:
-  - Lenguajes: [HTML, CSS, Java, JavaScript...]
-  - Tecnologías: [React, Node.js, Docker...]
-  - Herramientas: [Git, VS Code, Postman...]
+  - Lenguajes: [HTML, CSS, Java, JavaScript]
+  - Tecnologías: [React, Node.js, Docker]
 
 ## 📈 Mis estadísticas en GitHub
 
@@ -18,18 +16,13 @@
 
 ## 🌱 Actualmente estoy aprendiendo
 
-- [Tecnología, lenguaje o herramienta que estás aprendiendo]
-- Mejores prácticas de desarrollo
-- Arquitectura de software
+- Un curso de especialización en Inteligencia Artificial y BigData
 
 ## 📫 Cómo contactarme
 
 - Email: danielgayolro@gmail.com
 - LinkedIn: www.linkedin.com/in/daniel-gayol-rodríguez-4882a2347
-- Twitter: [tu usuario si aplica]
-- Portafolio: [tu web o portafolio si tienes]
 
 ---
 
 > *Dani Gayol Rodríguez*
-
