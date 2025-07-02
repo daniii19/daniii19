@@ -5,9 +5,13 @@
 ## 🚀 Sobre mí
 
 - 🎓 Técnico Superior en Desarrollo de Aplicaciones Web
+
 - 🛠️ Me gusta trabajar con:
-  - Lenguajes: [HTML, CSS, Java, JavaScript]
-  - Tecnologías: [React, Node.js, Docker]
+  <p
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,react,java,spring,nodejs" />
+    </a>
+  </p>
 
 ## 📈 Mis estadísticas en GitHub
 
