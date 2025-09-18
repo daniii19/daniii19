@@ -13,6 +13,10 @@
     </a>
   </p>
 
+## 📈 Curriculum Interactivo
+
+CV: 
+
 ## 🌱 Actualmente estoy aprendiendo
 
 - Curso de especialización en Inteligencia Artificial y BigData
