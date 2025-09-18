@@ -15,7 +15,7 @@
 
 ## 📈 Curriculum Interactivo
 
-CV: 
+- CV: 
 
 ## 🌱 Actualmente estoy aprendiendo
 
