@@ -13,14 +13,9 @@
     </a>
   </p>
 
-## 📈 Mis estadísticas en GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=daniii19&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniii19&layout=compact&theme=radical)
-
 ## 🌱 Actualmente estoy aprendiendo
 
-- Un curso de especialización en Inteligencia Artificial y BigData
+- Curso de especialización en Inteligencia Artificial y BigData
 
 ## 📫 Cómo contactarme
 
