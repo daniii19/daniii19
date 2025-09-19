@@ -15,7 +15,7 @@
 
 ## 📈 Curriculum Interactivo
 
-- CV: 
+- CV: https://daniii19.github.io/cv-interactivo/
 
 ## 🌱 Actualmente estoy aprendiendo
 
