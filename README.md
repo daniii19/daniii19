@@ -17,10 +17,6 @@
 
 - CV: https://daniii19.github.io/cv-interactivo/
 
-## 🌱 Actualmente estoy aprendiendo
-
-- Curso de especialización en Inteligencia Artificial y BigData
-
 ## 📫 Cómo contactarme
 
 - Email: danielgayolro@gmail.com
