@@ -6,6 +6,8 @@
 
 - 🎓 Técnico Superior en Desarrollo de Aplicaciones Web
 
+- 🎓 Grado especialización en Inteligencia Artificial y Big Data
+
 - 🛠️ Me gusta trabajar con:
   <p
     <a href="https://skillicons.dev">
